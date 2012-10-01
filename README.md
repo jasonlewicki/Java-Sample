@@ -1,4 +1,4 @@
-Code Sample
+Sample-Code
 ===========
 
 An OO Java project that:
