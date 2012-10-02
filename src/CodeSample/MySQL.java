@@ -11,7 +11,7 @@ public class MySQL
 	private String dbDomain = "localhost:3306";
 	private String dbName = "test";
 	private String dbUsername = "root";
-	private String dbPassword = "Boxford16";		
+	private String dbPassword = "password";		
 	private String driver = "com.mysql.jdbc.Driver";
 	private Connection con = null;
 	
