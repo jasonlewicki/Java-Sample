@@ -1,4 +1,4 @@
-Sample-Code
+Parses a CSV and inserts into a MySQL DB
 ===========
 
 An OO Java project that:
